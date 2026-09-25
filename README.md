@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # 💫 About Me:
 CSE Student | Aspiring Java Developer | Java • HTML • CSS | Building Software Projects
 
